@@ -4,11 +4,11 @@
 
 ### [Application](pubon-web.pages.dev/app)
 
-\*Note: App still is in progress.
+\*Note: App still is in progress. API is not deployed yet, however here is description and screens from the application.
 
 Pubon is an application created for various nightlife activities. It allows users to check places nearby that are worth visiting. In the future, it will become a community where people can add their own ratings and opinions.
 
-API is not deployed yet, however here are screens from the application.
+
 
 Every place is displayed by specific for place type marker.  
 ![Main](./docs/map_with_places.png)
