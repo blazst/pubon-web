@@ -1,8 +1,8 @@
 # pubon
 
-### [Landing page](pubon-web.pages.dev)
+### [Landing page](https://pubon-web.pages.dev)
 
-### [Application](pubon-web.pages.dev/app)
+### [Application](https://pubon-web.pages.dev/app)
 
 \*Note: App still is in progress. API is not deployed yet, however here is description and screens from the application.
 
