@@ -9,7 +9,7 @@
 Pubon is an application created for various nightlife activities. It allows users to check places nearby that are worth visiting. In the future, it will become a community where people can add their own ratings and opinions.
 
 
-
+safasfs
 Every place is displayed by specific for place type marker.  
 ![Main](./docs/map_with_places.png)
 Place can be added by form validated with react-hook-form. Data is being send to the backend.
